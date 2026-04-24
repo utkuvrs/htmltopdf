@@ -142,3 +142,4 @@ vite.config.ts.timestamp-*
 
 input/
 output/
+.DS_Store
